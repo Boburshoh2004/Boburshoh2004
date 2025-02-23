@@ -1,9 +1,18 @@
 Boburshoh/README.md
 
-<h1 align="center">Hi, I'm Boburshoh 👋</h1>
-<h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast |Problem Solver
-Typing SVG</h3>
+<h1 align="center"> 
+  Hi there, I'm Boburshoh 👋
+</h1>
 
+<h3 align="center">
+  Mobile App Developer | Flutter Enthusiast | Problem Solver
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Welcome%20to%20my%20GitHub!-black" alt="Welcome">
+  <img src="https://img.shields.io/badge/Building%20innovative%20mobile%20apps-blue" alt="Building Apps">
+  <img src="https://img.shields.io/badge/Passionate%20about%20clean%20and%20scalable%20code-green" alt="Clean Code">
+</p>
 ---
 
 🌟 About Me
