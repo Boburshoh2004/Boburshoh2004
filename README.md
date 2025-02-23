@@ -43,12 +43,12 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 ---
 
 ### 🌐 GitHub Activity Graph:
-[![Boburshoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boburshoh2004&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Boburshoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boburshoh2004&theme=dracula)](https://github.com/Boburshoh2004/github-readme-activity-graph)
 
 ---
 
 ### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Boburshoh2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Boburshoh2004&theme=onedark)](https://github.com/Boburshoh2004/github-profile-trophy)
 
 ---
 
