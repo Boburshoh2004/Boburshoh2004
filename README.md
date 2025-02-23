@@ -12,7 +12,7 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 - 🌱 I’m currently learning more about Flutter and Dart.
 - 💬 Ask me about  about Flutter/Android.
 - 📫 How to reach me: 
-  📱 Telegram: [@MrBoburshoh]
+  📱 [Telegram](https://t.me/MrBoburshoh)
   
   🛠️ My Tech Stack
           Flutter Dart Firebase BLoC
@@ -23,7 +23,6 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
 ---
 
