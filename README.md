@@ -1,8 +1,10 @@
 Boburshoh/README.md
-Hi there, I'm Boburshoh Muhammadjonov 👋
-🚀 Mobile App Developer | Flutter Enthusiast | Problem Solver
-Typing SVG
 
+<h1 align="center">Hi, I'm Boburshoh 👋</h1>
+<h3 align="center">🚀 Mobile App Developer | Flutter Enthusiast |Problem Solver
+Typing SVG</h3>
+
+---
 
 🌟 About Me
 I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a strong focus on creating clean, scalable, and user-friendly mobile applications. With expertise in Flutter and Dart, I specialize in crafting seamless cross-platform apps that deliver exceptional user experiences.
@@ -15,11 +17,34 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
   🛠️ My Tech Stack
           Flutter Dart Firebase BLoC
 
-Languages and Tools:
-
-  
 
 
+### ⚙️ Languages and Tools:
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
 
-snake
+---
 
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boburshoh2004&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Boburshoh2004&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Boburshoh2004&theme=radical)
+
+---
+
+### 🌐 GitHub Activity Graph:
+[![Boburshoh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boburshoh2004&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏆 GitHub Trophies:
+[![trophy](https://github-profile-trophy.vercel.app/?username=Boburshoh2004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 📈 Visitor Count:
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/Boburshoh2004/count.svg" />
+</p>
