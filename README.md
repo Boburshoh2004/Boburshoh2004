@@ -47,11 +47,6 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 
 ---
 
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=Boburshoh2004&theme=onedark)](https://github.com/Boburshoh2004/github-profile-trophy)
-
----
-
 ### 📈 Visitor Count:
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Boburshoh2004/count.svg" />
