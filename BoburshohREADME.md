@@ -1,5 +1,3 @@
-Boburshoh/README.md
-
 <h1 align="center"> 
   Hi there, I'm Boburshoh 👋
 </h1>
