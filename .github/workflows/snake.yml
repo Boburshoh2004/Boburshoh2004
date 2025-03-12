@@ -19,7 +19,7 @@ jobs:
           outputs: dist/snake.svg
 
       - name: Push to the output branch
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v3
         with:
           name: snake
           path: dist/snake.svg
