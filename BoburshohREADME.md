@@ -23,6 +23,10 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
+[![Linkedin: kharagkunchok](https://img.shields.io/badge/-Boburshoh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/Boburshoh-948a13247/](https://www.linkedin.com/in/Boburshoh-%F0%9F%87%B5%F0%9F%87%B8-948a13247/))]([https://www.linkedin.com/in/Boburshoh-948a13247/](https://www.linkedin.com/in/Boburshohv-%F0%9F%87%B5%F0%9F%87%B8-948a13247/))
+[![GitHub Boburshoh2004](https://img.shields.io/github/followers/SanjarbekFayzullayev?label=follow&style=social)](https://github.com/Boburshoh2004)
+
+
 
 ### 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boburshoh2004&show_icons=true&theme=radical)
@@ -37,19 +41,6 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 <p align="center"> 
   <img src="https://profile-counter.glitch.me/Boburshoh2004/count.svg" />
 </p>
-
-
-<!-- <a href="https://github.com/Boburshoh2004">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boburshoh2004&theme=light&hide_langs_below=1" />
-</a> -->
-<!-- <a href="https://github.com/Boburshoh2004">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Boburshoh2004&show_icons=true&theme=light&line_height=27" alt="Kunchok's github stats"/>
-</a> -->
-<div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
-
-
 
 <!-- <a href="https://github.com/codingwithtashi">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithtashi&theme=light&hide_langs_below=1" />
