@@ -52,3 +52,8 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
 <div>
   <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
+
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Boburshoh2004/Boburshoh2004/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+</div>
