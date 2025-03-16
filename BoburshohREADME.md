@@ -42,12 +42,12 @@ I am Boburshoh Muhammadjonov, a highly motivated Mobile App Developer with a str
   <img src="https://profile-counter.glitch.me/Boburshoh2004/count.svg" />
 </p>
 
-<!-- <a href="https://github.com/codingwithtashi">
+<!-- <a href="https://github.com/Boburshoh2004">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingwithtashi&theme=light&hide_langs_below=1" />
 </a> -->
-<!-- <a href="https://github.com/codingwithtashi">
+<!-- <a href="https://github.com/Boburshoh2004">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=codingwithtashi&show_icons=true&theme=light&line_height=27" alt="Kunchok's github stats"/>
 </a> -->
 <div>
-  <img src="https://github.com/omadli/omadli/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Boburshoh2004/Boburshoh2004/raw/master/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
